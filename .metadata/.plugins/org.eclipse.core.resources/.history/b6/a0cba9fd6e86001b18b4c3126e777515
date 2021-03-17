@@ -1,0 +1,13 @@
+
+public class IteracaoFor {
+	
+	public static void main(String[] args) {
+		System.out.println("Qualquer coisa!");
+		System.out.println("Qualquer coisa!");
+		
+	}
+
+
+	}
+
+
